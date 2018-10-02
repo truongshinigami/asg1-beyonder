@@ -1,3 +1,3 @@
-package dictionary;
+package Dictionary;
 public class Search {
 }

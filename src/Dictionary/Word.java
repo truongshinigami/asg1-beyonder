@@ -1,4 +1,4 @@
-package dictionary;
+package Dictionary;
 public class Word {
 
 }
